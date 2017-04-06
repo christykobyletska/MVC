@@ -1,2 +1,10 @@
 # temporal files
 ~*
+
+
+# Visual Studio
+Project/Forum/.vs
+Project/Forum/Forum/bin
+Project/Forum/Forum/obj
+
+
